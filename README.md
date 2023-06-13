@@ -2,6 +2,14 @@
 
 Este é um projeto simples que implementa uma calculadora básica utilizando a biblioteca tkinter do Python. A calculadora possui uma interface gráfica simples, onde os usuários podem inserir números e executar operações matemáticas básicas.
 
+
+## Arquivo do Projeto
+
+Aqui está uma imagem de exemplo:
+
+![Tumbnail](/tumbnail%20github.png)
+
+
 ## Requisitos 🔴
 
 Certifique-se de ter o Python 3 instalado em seu sistema antes de executar este projeto. Você também precisará instalar a biblioteca tkinter, que geralmente já está incluída na instalação padrão do Python.
