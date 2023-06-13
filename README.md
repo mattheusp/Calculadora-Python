@@ -27,3 +27,15 @@ Certifique-se de ter o Python 3 instalado em seu sistema antes de executar este 
 
    ```bash
    cd calculadora-tkinter
+
+   ## Contato ✉️
+
+- E-mail: mattheusp382@gmail.com
+- LinkedIn: [Mattheus-Pereira](https://www.linkedin.com/in/mattheuspereira/)
+- Instagram - https://www.instagram.com/mattheusp_dev/
+- Portfólio: [seu-website.com](https://www.seu-website.com)
+
+## Licença ⚖️
+
+Este projeto está licenciado sob a Licença MIT(https://opensource.org/licenses/MIT) - consulte o arquivo [LICENSE.md](LICENSE.md) para obter mais detalhes.
+
